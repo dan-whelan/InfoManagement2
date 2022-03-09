@@ -96,7 +96,7 @@ INSERT INTO `ALTERED_WORLD_EVENT` VALUES('AWE-24','Frederick Langston','Ordinary
 INSERT INTO `ALTERED_WORLD_EVENT` VALUES('AWE-35','Robert Nightingale','Bright Falls','AI-83','Ongoing');
 INSERT INTO `ALTERED_WORLD_EVENT` VALUES('AWE-48','Lin Salvador','Havana','AI-85','Closed');
 
-INSERT INTO `ALTERED_ITEM` VALUES(
+INSERT INTO `ALTERED_ITEM` VALUES('AI-0','Service Pistol;','AWE-1','Weapon used by Director chosen by The Board,...','Zachariah Trench');
 INSERT INTO `ALTERED_ITEM` VALUES('AI-1','[CLASSIFIED]','AWE-7','SEE ENTITY FRA','Zachariah Trench');
 INSERT INTO `ALTERED_ITEM` VALUES('AI-8','The Lightswitch','AWE-17','Transports user to Oceanview Motel and ...','Dr. Casper Darling');
 INSERT INTO `ALTERED_ITEM` VALUES('AI-15','Slide Projector','AWE_24','Allows user to travel to different places using...','Zachariah Trench');
